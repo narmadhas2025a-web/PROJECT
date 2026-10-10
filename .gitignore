@@ -1,5 +1,7 @@
-venv/
 Dataset/
 Dataset_split/
+venv/
+.venv/
 __pycache__/
-*.pyc
+*.py[cod]
+.env
